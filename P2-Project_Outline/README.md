@@ -7,12 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project will be a social app or website that allows users to post, rate and share recipes. This idea was born out of my frustration with with most mainstream cooking sites being a nightmare to navigate; full of advertisements, alerts and needless test bloat between you and the food that you want to make. In addition to the features stated earlier, I plan to implement comments on recipes, the ability to suggest combinations of dishes and user "scores" based on how popular their shared recipes are.
+
 ### Features
-Include Features here
+User login: Users will be able create accounts and login to those accounts. They will have profiles where things like their favorite recipes, comments and ratings will be stored.
+Search: Users will be able to search for recipes by different criteria or search for creators.
+Post: Users will be able to post their own recipes or their modified versions of existing recipes and tag with them with relevant keywords.
+Comment: Users will be able to leave comments and ratings on recipes.
+
 ### Technologies
-Include Technologies here
+Java
+Thymeleaf
+Spring Boot
+MySQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'm still unsure of what new technologies I will need to learn. However there are a number of issues that I know I will need to solve, such as managing user logins, ratings and comments.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/L1k4LGjg/my-project
