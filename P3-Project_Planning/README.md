@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-https://github.com/wwalker791/liftoff-assignments/blob/master/Home%20page.png
-https://github.com/wwalker791/liftoff-assignments/blob/master/Recipe%20page.png
-https://github.com/wwalker791/liftoff-assignments/blob/master/User%20page.png
+*https://github.com/wwalker791/liftoff-assignments/blob/master/Home%20page.png
+*https://github.com/wwalker791/liftoff-assignments/blob/master/Recipe%20page.png
+*https://github.com/wwalker791/liftoff-assignments/blob/master/User%20page.png
 
 ### Project Tracker
 
